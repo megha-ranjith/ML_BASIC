@@ -27,9 +27,11 @@ This repository features Python code, detailed documentation, and result visuali
 
 ```
 ├── linear_regression/
-├── knn/
+├── naive_bayesian_classifier/
 ├── decision_tree/
+├── knn/
 ├── neural_network/
+├── clustering_kmeans_em/
 ├── backpropagation/
 ├── dbscan/
 ├── pca/
